@@ -1,5 +1,5 @@
 
-# Franchise API - FIX TOTAL PRO DEFINITIVO
+# Franchise API 
 
 ## Requisitos
 - Docker Desktop funcionando
